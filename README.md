@@ -3,23 +3,23 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/lqphuc123/Quidk/actions/new">
+    <a href="https://github.com/PL508/Quidk-extension/actions/new">
 		<img src="https://github.com/php-science/textrank/workflows/tests/badge.svg"/>
 	</a>
-	<a href="https://github.com/lqphuc123/Quidk/tree/main/extension">
+	<a href="https://github.com/PL508/Quidk-extension">
 	    <img src="https://img.shields.io/badge/stable-2.1.0.4-orange" />
 	</a>
 	<a href="https://www.mediafire.com/file/h4vvqqofdmuacbr/quidk-extension.zip/file">
         <img src="https://img.shields.io/badge/download-23-blue"/>
     </a>
-	<a href="https://github.com/lqphuc123/Quidk/blob/main/extension/LICENSE">
+	<a href="https://github.com/PL508/Quidk-extension/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/lqphuc123/Quidk"/>
     </a>
 </p>
 
 <p align="center">
 The fastest Chromium-based extension to shorten pages.</br>
-It is possible to extend it with <a href="https://github.com/lqphuc123/Quidk/tree/main/extension/TextRank/StopWords">another languages</a>.
+It is possible to extend it with <a href="https://github.com/PL508/Quidk-extension/tree/master/TextRank/StopWords">another languages</a>.
 </p>
 
 ## Functionality
@@ -82,7 +82,7 @@ This extension is the **lite version** of the [original website](https://github.
 
 ## Feedback and contributions
 
-Please let us know if you encounter a bug by [filing an issue](https://github.com/lqphuc123/Quidk/issues).
+Please let us know if you encounter a bug by [filing an issue](https://github.com/PL508/Quidk-extension/issues).
 
 We appreciate all contributions. If you are planning to contribute back bug-fixes, please do so without any further discussion.
 
