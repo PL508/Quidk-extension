@@ -3,21 +3,6 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/PL508/Quidk-extension/actions/new">
-		<img src="https://github.com/php-science/textrank/workflows/tests/badge.svg"/>
-	</a>
-	<a href="https://github.com/PL508/Quidk-extension">
-	    <img src="https://img.shields.io/badge/stable-2.1.0.4-orange" />
-	</a>
-	<a href="https://www.mediafire.com/file/h4vvqqofdmuacbr/quidk-extension.zip/file">
-        <img src="https://img.shields.io/badge/download-23-blue"/>
-    </a>
-	<a href="https://github.com/PL508/Quidk-extension/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/lqphuc123/Quidk"/>
-    </a>
-</p>
-
-<p align="center">
 The fastest Chromium-based extension to shorten pages.</br>
 It is possible to extend it with <a href="https://github.com/PL508/Quidk-extension/tree/master/TextRank/StopWords">another languages</a>.
 </p>
